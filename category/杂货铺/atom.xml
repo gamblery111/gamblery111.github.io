@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
-    <title>Blog</title>
+    <title>Blog • Posts by &#34;杂货铺&#34; category</title>
     <link href="http://example.com" />
     <updated>2024-07-07T06:27:49.400Z</updated>
     <entry>
