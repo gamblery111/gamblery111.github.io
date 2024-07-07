@@ -6,6 +6,11 @@
   --backdrop-filter: blur(5px) saturate(150%);
 }
 
+/* 居中文章页面的日期、分类、标签等内容 */
+#post-info {
+  text-align: center;
+}
+
 /* 页脚与头图透明 */
 #footer {
     background: transparent !important;
