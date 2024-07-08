@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>第一篇文章</title>
+      <title>Hexo主题美化</title>
       <link href="/2024/07/07/First-test/"/>
       <url>/2024/07/07/First-test/</url>
       
-        <content type="html"><![CDATA[<h1 id="这是我第一篇文章"><a href="#这是我第一篇文章" class="headerlink" title="这是我第一篇文章"></a>这是我第一篇文章</h1><!-- <div class="note default simple"><p>default 提示块标签</p></div> --><h2 id="魔改hexo"><a href="#魔改hexo" class="headerlink" title="魔改hexo"></a>魔改hexo</h2><p>参考网址:<a href="https://www.fomal.cc/posts/5389e93f.html">https://www.fomal.cc/posts/5389e93f.html</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="魔改hexo"><a href="#魔改hexo" class="headerlink" title="魔改hexo"></a>魔改hexo</h1><p>参考网址:<a href="https://www.fomal.cc/posts/5389e93f.html">https://www.fomal.cc/posts/5389e93f.html</a></p>]]></content>
       
       
       <categories>

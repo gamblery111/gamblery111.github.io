@@ -43,7 +43,7 @@ class Cursor {
         this.scr.innerHTML =
         `* {cursor: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' \
         viewBox='0 0 8 8' width='8px' height='8px'><circle cx='4' cy='4' r='4' opacity='.5' \
-         fill='rgb(180, 38, 156)'/></svg>") 4 4, auto}`;
+         fill='rgb(5, 211, 12)'/></svg>") 4 4, auto}`;
     }
 
     refresh() {

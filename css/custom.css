@@ -63,7 +63,7 @@
   width: 16px;
   height: 16px;
   /* 这里改变跟随的底色 */
-  background: rgb(180, 38, 156);
+  background: rgba(5, 211, 12, 0.599);
   border-radius: 8px;
   opacity: 0.25;
   z-index: 10086;
